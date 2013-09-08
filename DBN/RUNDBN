@@ -1,0 +1,1 @@
+python DBN.py > report;mutt -s "test" email@email.com -a report < message; shutdown -h now
